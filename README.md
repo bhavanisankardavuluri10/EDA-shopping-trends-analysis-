@@ -1,2 +1,3 @@
 # EDA-shopping-trends-analysis-
 This project analyzes customer purchase behavior using Python, exploring trends in demographics, product preferences, and the impact of discounts. Features include data visualization, insights on age, gender, and location, and analysis of purchasing frequency. Ideal for optimizing marketing and personalizing customer experiences.
+ AFTER THIS ANALYSIS  I FOUND LIKE HOW AMAZON LIKE BIG COMPANYS NEED  DATA PREPEROCESSING AND AFTER WORDS TRAINING MLODELS THAT CAN SUJJEST THE PRODUCTS ACCORDING TO THE USER PURCHACE BEHAVIOUR AND AGE LIKE THAT CCATAGORIES AND  NOW FUTURE PLAN IS TO MAKE AN ECOMMERS THAT CAN SUJJEST THE PRODUCETS ACCORING TO THE SEARCHS AND THEOR PREIOUS PURCHAES LIKW THAT 
